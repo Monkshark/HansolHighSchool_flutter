@@ -1,66 +1,26 @@
 {
   "project_info": {
-    "project_number": "74604661639",
-    "firebase_url": "https://hansol-high-school-326ab-default-rtdb.firebaseio.com",
-    "project_id": "hansol-high-school-326ab",
-    "storage_bucket": "hansol-high-school-326ab.appspot.com"
+    "project_number": "303458808784",
+    "project_id": "hansol-high-school-46fc9",
+    "storage_bucket": "hansol-high-school-46fc9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:74604661639:android:de8e9369ff8f484399e122",
-        "android_client_info": {
-          "package_name": "com.ProG.HansolHighSchool"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "74604661639-a8r8fl3dfvk1l4rqbavl17ooaqpltl7k.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCJFGBf1AK7UtH39PPpAb1rWZXROnwVn1E"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "74604661639-a8r8fl3dfvk1l4rqbavl17ooaqpltl7k.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:74604661639:android:546bbb7bcee1fc2899e122",
+        "mobilesdk_app_id": "1:303458808784:android:178a941a83ec9d9ce8bfd5",
         "android_client_info": {
           "package_name": "com.example.hansol_high_school"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "74604661639-a8r8fl3dfvk1l4rqbavl17ooaqpltl7k.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJFGBf1AK7UtH39PPpAb1rWZXROnwVn1E"
+          "current_key": "AIzaSyCGUnNLJXlmF9XrU-B2zoupW5UzLrUVVPQ"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "74604661639-a8r8fl3dfvk1l4rqbavl17ooaqpltl7k.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
